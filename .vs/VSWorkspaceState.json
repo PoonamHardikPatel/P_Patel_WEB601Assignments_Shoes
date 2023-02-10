@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\P_Patel_Shoes",
+    "\\P_Patel_Shoes\\src",
+    "\\P_Patel_Shoes\\src\\app",
+    "\\P_Patel_Shoes\\src\\app\\content-card_OLD",
+    "\\P_Patel_Shoes\\src\\app\\content-list",
+    "\\P_Patel_Shoes\\src\\app\\helper-files"
   ],
-  "SelectedNode": "\\C:\\Users\\patel\\Source\\Repos\\PoonamHardikPatel\\P_Patel_WEB601Assignments_Shoes",
+  "SelectedNode": "\\P_Patel_Shoes\\src\\app\\content-list\\content-list.component.ts",
   "PreviewInSolutionExplorer": false
 }
